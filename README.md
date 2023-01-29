@@ -9,4 +9,4 @@ Game Project includes
 
 Skills used: Try-Except, Module Knowledge, Basic Python
 
-Modules used: time
+Modules used: time, random
